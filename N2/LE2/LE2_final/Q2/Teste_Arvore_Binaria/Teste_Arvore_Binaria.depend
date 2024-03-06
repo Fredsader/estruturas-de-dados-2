@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1698778690 source:e:\pen_kingston\2023-2\aulas\estrutura de dados ii\programas\teste_arvores_backes\teste_arvore_binaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinaria.h"
+
+1698841135 e:\pen_kingston\2023-2\aulas\estrutura de dados ii\programas\teste_arvores_backes\teste_arvore_binaria\arvorebinaria.h
+
+1698841223 source:e:\pen_kingston\2023-2\aulas\estrutura de dados ii\programas\teste_arvores_backes\teste_arvore_binaria\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinaria.h"
+
+1698841224 source:c:\projetos_provisorio\c_cpp_uenf\ed2 - le2\q2\teste_arvore_binaria\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinaria.h"
+
+1698841136 c:\projetos_provisorio\c_cpp_uenf\ed2 - le2\q2\teste_arvore_binaria\arvorebinaria.h
+
+1701110558 source:c:\projetos_provisorio\c_cpp_uenf\ed2 - le2\q2\teste_arvore_binaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinaria.h"
+	<time.h>
+
